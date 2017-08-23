@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringDrxApplication {
 
 	public static void main(String[] args) {
+		// default start embedded spring application
 		SpringApplication.run(SpringDrxApplication.class, args);
 	}
 }
